@@ -1,0 +1,771 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"boxs",
+				"box-sizing"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"ma",
+				"main__content"
+			],
+			[
+				"foot",
+				"footer"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"e",
+				"oblique"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"s",
+				"space-around"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"li",
+				"lightgrey"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"whi",
+				"whitesmoke"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"a",
+				"align-self"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"new",
+				"news_text"
+			],
+			[
+				"tem",
+				"grid-template-rows"
+			],
+			[
+				"ga",
+				"row-gap"
+			],
+			[
+				"ele",
+				"element_5"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"i",
+				"inline-grid"
+			],
+			[
+				"ne",
+				"news4"
+			],
+			[
+				"n",
+				"news3"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"htm",
+				"html\thtml"
+			],
+			[
+				"grid-te",
+				"grid-template-columns"
+			],
+			[
+				"grid-templates",
+				"grid-template-columns"
+			],
+			[
+				"gr",
+				"grid-template"
+			],
+			[
+				"fo",
+				"footer"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"line-",
+				"line-height"
+			],
+			[
+				"g",
+				"grey"
+			],
+			[
+				"l",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"ani",
+				"animation-play-state"
+			],
+			[
+				"bag",
+				"background-position-x"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"bacg",
+				"background"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"lin",
+				"linear-gradient()"
+			],
+			[
+				"animation",
+				"animation"
+			],
+			[
+				"lightgre",
+				"lightgreen"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"an",
+				"animation-fill-mode"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"b",
+				"blue"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"lightgr",
+				"lightgrey"
+			],
+			[
+				"rc",
+				"src"
+			],
+			[
+				"red",
+				"orangered"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"tec",
+				"text-decoration"
+			],
+			[
+				"cor",
+				"cornsilk"
+			],
+			[
+				"da",
+				"darkgray"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"dar",
+				"darkblue"
+			],
+			[
+				"whe",
+				"whitesmoke"
+			],
+			[
+				"ema",
+				"email"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bore",
+				"border-radius"
+			],
+			[
+				"text_me",
+				"text_message"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"mag",
+				"margin"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"p",
+				"profile_photo"
+			],
+			[
+				"la",
+				"language_1"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"ge",
+				"gender_male"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"ht",
+				"html\thtml"
+			],
+			[
+				"news",
+				"news_container"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"slider",
+				"slider__next"
+			],
+			[
+				"style",
+				"list-style"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"all",
+				"align-self"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"text-underline",
+				"text-underline-position"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"td",
+				"td"
+			],
+			[
+				"ta",
+				"table_4"
+			],
+			[
+				"tabl",
+				"table_4"
+			],
+			[
+				"tA",
+				"table_4"
+			],
+			[
+				"tab",
+				"table_4"
+			],
+			[
+				"table_",
+				"table_4"
+			],
+			[
+				"bot",
+				"border-top"
+			],
+			[
+				"fi",
+				"first_row3"
+			],
+			[
+				"for",
+				"fourth_row"
+			],
+			[
+				"alli",
+				"vertical-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 12/adpt-pg2.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 10/knowleges.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 12/adapt-page-grid.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 10/animations.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 12/grid-gallery.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 7/adapt-page.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 12/grid-gallery2.html",
+		"/C/Users/blackJack/Desktop/Курсы/Lesson #18 (grid layout)/grid-example.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 12/adaptive-layout-flex.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 10/buttons.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 8/form-log.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 10/kolobok.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 9/audio-tag.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 10/tv-set.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 8/form-styled-new.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 8/form-styled.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/blank-slider.html",
+		"/C/Users/blackJack/Desktop/blank-slider-old.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 7/one-block.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 7/adapt-fotos.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 8/form.html",
+		"/C/Users/blackJack/Desktop/Курсы/Lesson #13 (forms)/forms.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 8/login-form.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 10/fight-water-and-fire.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 8/icon-fonts.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 8/audio-tag.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 8/video-gallery.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/answers123.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 7/tester-adapt.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/visual-steps.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/foto-border.html",
+		"/C/Users/blackJack/Desktop/123.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/blank-menu.html",
+		"/C/Users/blackJack/Desktop/tester-answers.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/answers.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/pagination.html",
+		"/C/Users/blackJack/Desktop/Курсы/Lesson #10 (selectors)/css-chess.html",
+		"/C/Users/blackJack/Desktop/css-chess.html",
+		"/C/Users/blackJack/Desktop/chess-test.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/chess.html",
+		"/C/Users/blackJack/Desktop/Курсы/Lesson #10 (selectors)/Practical task №19 (pseudoclasses).docx",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/position-images.html",
+		"/C/Users/blackJack/Desktop/Курсы/Lesson #9 (position)/html5-logo.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/html5-logo.html",
+		"/C/Users/blackJack/Desktop/Курсы/Lesson #10 (selectors)/css-weight.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/first-layout-table.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/news-section.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/tester-blank.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/first-layout-div.html",
+		"/C/Users/blackJack/Desktop/table-test nth-child.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/color-blocks-table.html",
+		"/C/Users/blackJack/Desktop/tester.html",
+		"/C/Users/blackJack/Desktop/tested.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/color-blocks-div.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/table-test2.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 5/table-test.html",
+		"/C/Users/blackJack/Desktop/html5-logo.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/task 6/poker2.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 5/centered-block.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 5/poker.html",
+		"/C/Users/blackJack/Desktop/test1.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 5/calendar.html",
+		"/C/Users/blackJack/Desktop/Курсы/Lesson #6 (sprites, tables)/tables-test.html",
+		"/C/Users/blackJack/Desktop/test.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 5/bg-size.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 4/poker.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 4/font squirrel.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 5/overflow-test.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 4/simon-garfunkel.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 4/external-fonts.html",
+		"/C/Users/blackJack/Desktop/Курсы/для сайта/uuu.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 2/vechno-student.html",
+		"/C/Users/blackJack/Desktop/uuu.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 3/figure.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 3/diary2.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 2/DNEVNIK.html",
+		"/C/Users/blackJack/Desktop/rfrfrfrfrf.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 3/childbook.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 2/diary2.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 3/diary.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 1/diary.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 2/formulas.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 2/vizbor.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 2/diary.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 1/precept.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 1/animal-language.html",
+		"/C/Users/blackJack/Desktop/Tasks Fler/Task 1/primer.html",
+		"/C/Users/blackJack/Desktop/Tasks Tom/Task 1/animal-language.html",
+		"/C/Users/blackJack/Desktop/ДЗ/ДЗ 1/task1.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
